@@ -1,3 +1,3 @@
-#!env/bin/python
+#!env/bin/python3
 from app import app
 app.run(debug=True,host="0.0.0.0")
